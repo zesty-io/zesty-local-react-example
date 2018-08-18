@@ -1,0 +1,105 @@
+{
+	"items" : {
+		
+			
+				"drink": { 
+					
+						"Lemonade" : {
+							"category" : "drink",
+							"price" : "3",
+							"description" : "Thirst quenching ",
+							"featured" : "1",
+							
+							
+							
+							
+							"tags" : [
+								"Non-Alcoholic"
+								
+							],
+							"name": "Lemonade",
+							"image" : "https://6c706l48.media.zestyio.com/yellow.SJgrxxVXm.f1cb27a519bdb5b6ed34049a5b86e317.jpg",
+
+							
+								
+									
+								
+							
+							"vegetarian" : "0",
+							"vegan": "0",
+							"gluten-free": "1",
+							"alcoholic": "0",
+							"images" : {
+								
+									"image_1" : "https://6c706l48.media.zestyio.com/yellow.SJgrxxVXm.f1cb27a519bdb5b6ed34049a5b86e317.jpg" 
+								
+							}		
+						}		
+					
+				}
+			,
+				"food": { 
+					
+						"Vegan Burger" : {
+							"category" : "food",
+							"price" : "15",
+							"description" : "Tasty without the guilt",
+							"featured" : "1",
+							
+							
+							
+							
+							"tags" : [
+								"Vegetarian"
+								
+							],
+							"name": "Vegan Burger",
+							"image" : "https://6c706l48.media.zestyio.com/BurgerLite.f1cb27a519bdb5b6ed34049a5b86e317.jpg",
+
+							
+								
+									
+								
+							
+							"vegetarian" : "1",
+							"vegan": "0",
+							"gluten-free": "0",
+							"alcoholic": "0",
+							"images" : {
+								
+									"image_1" : "https://6c706l48.media.zestyio.com/BurgerLite.f1cb27a519bdb5b6ed34049a5b86e317.jpg" 
+								
+							}		
+						},		
+					
+						"Zesty Burger" : {
+							"category" : "food",
+							"price" : "10",
+							"description" : "Mmmm tasty",
+							"featured" : "1",
+							
+							
+							
+							
+							"tags" : [
+							],
+							"name": "Zesty Burger",
+							"image" : "https://6c706l48.media.zestyio.com/Bio-Burger.f1cb27a519bdb5b6ed34049a5b86e317.jpg",
+
+							
+							"vegetarian" : "0",
+							"vegan": "0",
+							"gluten-free": "0",
+							"alcoholic": "0",
+							"images" : {
+								
+									"image_1" : "https://6c706l48.media.zestyio.com/Bio-Burger.f1cb27a519bdb5b6ed34049a5b86e317.jpg" 
+								
+							}		
+						}		
+					
+				}
+			
+		
+	}
+}

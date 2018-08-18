@@ -1,0 +1,26 @@
+{
+	"data" : {
+		
+		"`parent_zuid`": "0",
+		"sort": 0,
+		"_item_zuid": "7-4ad498-k2cldb",
+		"_version_zuid": "9-640368-k780sx",
+		"_version": 1,
+		"_lang": 1,
+		"_created_at": "2018-07-10 23:03:25",
+		"_created_by_user_zuid": "5-b4d1c4d6ca-hzfn90",
+		"_meta_link_text": "Homepage",
+		"_meta_title": "",
+		"_meta_description": "",
+		"_meta_keywords": null,
+		"created_at": "2018-08-13 22:52:06",
+		"updated_at": "2018-08-13 22:52:08",
+		"deleted_at": null,
+		"splash_title": "Eat Zesty",
+		"splash_description": "Come and taste the burger revolution at any of our award winning restaurants worldwide.",
+		"splash_link": "/menu/",
+		"splash_link_text": "See our Menu",
+		"splash_background": "https://6c706l48.media.zestyio.com/bg_3.f1cb27a519bdb5b6ed34049a5b86e317.jpg"
+		
+	}
+}
