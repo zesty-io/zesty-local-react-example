@@ -9,9 +9,9 @@
     "react-scripts": "1.1.4"
   },
   "scripts": {
-    "start": "node zesty/pullzesty.js --verbose ; react-scripts start",
-    "build": "node zesty/pullzesty.js --verbose ; react-scripts build",
-    "test": "node zesty/pullzesty.js --verbose ; react-scripts test --env=jsdom",
+    "start": "pullzesty --verbose ; react-scripts start",
+    "build": "pullzesty --verbose ; react-scripts build",
+    "test": "pullzesty --verbose ; react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   }
 }

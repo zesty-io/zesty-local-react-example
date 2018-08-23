@@ -1,24 +1,5 @@
 instanceURL: http://burger.zesty.site
-# contentZuids:
-#   items:
-#     7-4ad498-k2cldb: content/_index.md # Homepage
-#     7-a4b6ac-bc4n0q: content/about.md # About
-#     7-8443e4-x33jgm: content/locations/_index.md # Locations Index
-#     7-b74a74-wjsq8t: content/events/_index.md # Events Index
-#     7-468214-r277lp: content/menu/_index.md # Menu Index
-#     7-162dc8-cxhsx4: content/blog/_index.md # Blog Index
-#     7-557f14-9vgpr3: content/careers/_index.md # Careers Index
-#   arrays:
-#     6-9bfe5c-ntqxrs: content/locations # Location Subpages
-#     6-8d6f30-zc84qx: content/events # Events Subpages
-#     6-97a8f4-td4p72: content/menu # Menu Subpages
-#     6-552d64-9rp79b: content/blog # Blog Subpages
-#     6-192984-tjwntl: content/careers # Careers Subpages
 endpoints:
   custom:
-    /-/custom/menulist: src/data/menulist.json
-    /-/basic-api/homepage: src/data/homepage.json
-  # items:
-  #   7-6a4a7b1-vv84b3: data/footer.json
-  # arrays:
-  #   6-8d6f30-zc84qx: data/events
+    /-/custom/menulist.json: src/data/menulist.json
+    /-/basic-api/homepage.json: src/data/homepage.json

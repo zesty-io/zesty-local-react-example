@@ -50,7 +50,11 @@
 							
 							
 							"tags" : [
-								"Vegetarian"
+								"Vegan",
+								
+								"Vegetarian",
+								
+								"Gluten Free"
 								
 							],
 							"name": "Vegan Burger",
@@ -61,9 +65,17 @@
 									
 								
 							
+								
+									
+								
+							
+								
+									
+								
+							
 							"vegetarian" : "1",
-							"vegan": "0",
-							"gluten-free": "0",
+							"vegan": "1",
+							"gluten-free": "1",
 							"alcoholic": "0",
 							"images" : {
 								
